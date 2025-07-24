@@ -89,5 +89,5 @@ body {
 
 /* מרווח גוף מתחת להדר */
 main {
-  padding-top: 160px; /* כדי שה-header לא יסתיר תוכן */
+  padding-top: 150px; /* כדי שה-header לא יסתיר תוכן */
 }
